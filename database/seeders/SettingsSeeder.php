@@ -14,7 +14,7 @@ class SettingsSeeder extends Seeder
         Setting::truncate();
         $settings = new Setting;
         $settings->per_page = 20;
-        $settings->site_name = 'Snipe-IT Demo';
+        $settings->site_name = 'Forseti VIETNAME ASSETS';
         $settings->auto_increment_assets = 1;
         $settings->logo = 'snipe-logo.png';
         $settings->alert_email = 'service@snipe-it.io';
@@ -32,7 +32,7 @@ class SettingsSeeder extends Seeder
         $settings->date_display_format = 'D M d, Y';
         $settings->time_display_format = 'g:iA';
         $settings->thumbnail_max_h = '30';
-        $settings->locale = 'en-US';
+        $settings->locale = 'vi';
         $settings->version_footer = 'on';
         $settings->support_footer = 'on';
         $settings->pwd_secure_min = '8';
@@ -40,7 +40,7 @@ class SettingsSeeder extends Seeder
         $settings->save();
 
         if ($user = User::where('username', '=', 'admin')->first()) {
-            $user->locale = 'en-US';
+            $user->locale = 'vi';
             $user->save();
         }
 
