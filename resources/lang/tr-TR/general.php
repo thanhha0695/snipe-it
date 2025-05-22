@@ -282,7 +282,7 @@ Context | Request Context
     'signed_off_by'         => 'İmzalayan',
     'skin'       			=> 'Tema',
     'webhook_msg_note'        => 'Webhook üzerinden bir ileti gönderilecek',
-    'webhook_test_msg'        => 'Oh hai! It looks like your :app integration with Snipe-IT is working!',
+    'webhook_test_msg'        => 'Oh hai! It looks like your :app integration with Forseti-IT is working!',
     'some_features_disabled' => 'DEMO modu: Bu yükleme için bazı özellikleri devre dışı bırakılır.',
     'site_name'				=> 'Site Adı',
     'state'  				=> 'İlçe',

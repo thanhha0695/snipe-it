@@ -18,7 +18,7 @@
 {{ $snipeSettings->site_name }}
 @endif
 @else
-Snipe-IT
+    Forseti-IT
 @endif
 @endcomponent
 @endslot
@@ -41,7 +41,7 @@ Snipe-IT
 @if($snipeSettings::setupCompleted())
 © {{ date('Y') }} {{ $snipeSettings->site_name }}. All rights reserved.
 @else
-© {{ date('Y') }} Snipe-it. All rights reserved.
+© {{ date('Y') }} Forseti-it. All rights reserved.
 @endif
 
 @if ($snipeSettings->privacy_policy_link!='')
