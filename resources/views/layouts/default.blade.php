@@ -112,7 +112,7 @@ dir="{{ Helper::determineLanguageDirection() }}">
                         <span class="sr-only">{{ trans('general.toggle_navigation') }}</span>
                     </a>
                     <div class="nav navbar-nav navbar-left">
-                        <div class="left-navblock">
+                        <div class="left-navblock" style="max-width: 520px !important;">
                             @if ($snipeSettings->brand == '3')
                                 <a class="logo navbar-brand no-hover" href="{{ config('app.url') }}">
                                     @if ($snipeSettings->logo!='')
