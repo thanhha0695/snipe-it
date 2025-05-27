@@ -15,7 +15,7 @@ return array(
     'inherit'  				=> 'Kế thừa',
     'job' 					=> 'Tiêu đề công việc',
     'last_login'  			=> 'Lần đăng nhập trước',
-    'last_name'  			=> 'Tên',
+    'last_name'  			=> 'Họ và tên đệm',
     'location'  			=> 'Địa phương',
     'lock_passwords'		=> 'Chi tiết đăng nhập không thể thay đổi trong cài đặt này.',
     'manager' 				=> 'Người quản lý',
