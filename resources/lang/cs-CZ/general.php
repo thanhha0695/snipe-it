@@ -155,7 +155,7 @@ return [
     'import'         	    => 'Import',
     'import_this_file'      => 'Mapa polí a zpracovávat tento soubor',
     'importing'         	=> 'Importování',
-    'importing_help'        => 'Prostřednictvím souboru CSV můžete importovat majetek, příslušenství, licence, komponenty, spotřební materiál a uživatele. <br><br>CSV by měl být oddělený čárkou a formátovaný s hlavičkami, které odpovídají <a href="https://snipe-it.readme.io/docs/importing" target="_new">vzorovému CSV</a>.',
+    'importing_help'        => 'Prostřednictvím souboru CSV můžete importovat majetek, příslušenství, licence, komponenty, spotřební materiál a uživatele. <br><br>CSV by měl být oddělený čárkou a formátovaný s hlavičkami, které odpovídají <a href="#" target="_new">vzorovému CSV</a>.',
     'import-history'        => 'Historie importu',
     'asset_maintenance'        => 'Údržba zařízení',
     'asset_maintenance_report' => 'Zpráva o údržbě zařízení',
