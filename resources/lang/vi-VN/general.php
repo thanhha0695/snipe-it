@@ -169,7 +169,7 @@ return [
     'language'				=> 'Ngôn ngữ',
     'last'					=> 'Cuối',
     'last_login'            => 'Lân đăng nhập cuôi',
-    'last_name'             => 'Tên',
+    'last_name'             => 'Họ và tên đệm',
     'firstname_lastname_display'	=> 'Tên Họ (jane_smith)',
     'lastname_firstname_display'	=> 'Họ và tên (Smith Jane)',
     'name_display_format'	=> 'Định dạng hiển thị tên',
