@@ -174,7 +174,7 @@ return [
     'lastname_firstname_display'	=> 'Họ và tên (Smith Jane)',
     'name_display_format'	=> 'Định dạng hiển thị tên',
     'first'					=> 'Đầu tiên',
-    'first_name'			=> 'Họ và tên đệm',
+    'first_name'			=> 'Tên',
     'license'				=> 'Bản quyền',
     'license_report'        => 'Báo cáo bản quyền',
     'licenses_available'	=> 'Giấy phép có sẵn',

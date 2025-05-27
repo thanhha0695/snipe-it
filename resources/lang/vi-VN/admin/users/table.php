@@ -9,7 +9,7 @@ return array(
     'deny'  				=> 'Từ chối',
     'email'      			=> 'Email',
     'employee_num'      	=> 'Mã nhân viên',
-    'first_name' 			=> 'Họ và tên đệm',
+    'first_name' 			=> 'Tên',
     'groupnotes'			=> 'Chọn nhóm để đăng ký cho người dùng, người dùng sẽ có quyền của nhóm đã được đăng ký. Sử dụng ctrl+click(hoặc cmd+click cho MacOS) để bỏ chọn nhóm.',
     'id'         			=> 'Id',
     'inherit'  				=> 'Kế thừa',
