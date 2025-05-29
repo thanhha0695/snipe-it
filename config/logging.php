@@ -44,9 +44,9 @@ $config = [
         ],
 
         'single' => [
-            'driver' => 'single',
-            'path' => storage_path('logs/laravel.log'),
-            'level' => env('LOG_LEVEL', 'warning'),
+            'driver' => 'daily',
+            'path' => storage_path('logs/app.log'),
+            'level' => 'debug',
         ],
 
         'daily' => [
